@@ -43,6 +43,11 @@ family organizer address. This works with **any** email provider with no per-acc
 
 3. Add family members and their emails in **Family**, then tap **+** on the **Calendar**.
 
+## Installing without the app stores
+
+See **[INSTALL.md](INSTALL.md)**. Android gets a free downloadable APK built by GitHub
+Actions; iPhone options are TestFlight, an ad hoc install link, or Xcode.
+
 ## Publishing to the App Store / Google Play
 
 Use EAS (cloud builds — no Mac required for iOS builds):
